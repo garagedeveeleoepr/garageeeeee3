@@ -1,12 +1,12 @@
 {
-    "Enable": true,
+    "Enable": false,
     "Lang": ["ru", "es"],
     "Timing": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent","Santiago", "Easter", "Punta_Arenas", "Tijuana", "Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun"],
     "Links": 
     [ 
-          { "Lang":"ru", "Link": "https://getmaxluck.com/?s=35&ref=wp_w164086p143_GR&encoded_url=cmVnaXN0ZXI="},
-          { "Lang":"es", "Link": "https://1wwmmx.top/casino/list?open=register"}
+          { "Lang":"ru", "Link": ""},
+          { "Lang":"es", "Link": ""}
     ]
  }
